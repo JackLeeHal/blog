@@ -23,5 +23,5 @@ redirect_from:
 1. Golang, Java & Microservices.
 2. Cloud, DataBase, Distributed storage.
 3. AI & AIGC.
-4. Guitar.
-5. Cat
+4. Guitarist.
+5. Cat person.
