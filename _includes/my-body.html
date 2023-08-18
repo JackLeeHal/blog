@@ -104,7 +104,7 @@ Example code for using Matamo as alternative analytics solution.
   window.loadJSDeferred('{{site.matomo_analytics.root}}piwik.js');
 </script>
 {% endif %}
-{% endcomment %}
+
 <!-- _includes/gitalk-comment.html -->
 {% if site.gittalk.clientID and site.gittalk.clientSecret %}
 <div id="gitalk-container"></div>
@@ -126,3 +126,5 @@ gitalk.render('gitalk-container')
 </script>
 
 {% endif %}
+
+{% endcomment %}
