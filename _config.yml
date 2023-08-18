@@ -20,7 +20,7 @@
 lang:                  zh
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Jack
+title:                 李
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   This is my personal blog.
 
 # A shorter description for the sidebar.
-tagline:               Explore and learn.
+tagline:               人类的赞歌是勇气的赞歌！
 
 # A list of keywords for your blog
 keywords:              []
