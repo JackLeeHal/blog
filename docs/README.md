@@ -8,34 +8,36 @@ sitemap: false
 permalink: /docs/
 ---
 
-<iframe src="//player.bilibili.com/player.html?aid=656678682&bvid=BV1mh4y1R7Ty&cid=1144115145&page=1" width="600px" height="400px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-### Creep Radiohead
+## Creep
+* [Creep]{:.heading.flip-title} --- Creep Radiohead.
 
-<iframe src="//player.bilibili.com/player.html?aid=271883655&bvid=BV1Nc41137yv&cid=1154031669&page=1" width="600px" height="400px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## 温柔
+* [温柔]{:.heading.flip-title} --- 温柔 五月天.
 
-### 温柔
+## 红豆
+* [红豆]{:.heading.flip-title} --- 红豆 方大同.
 
-<iframe src="//player.bilibili.com/player.html?aid=813573552&bvid=BV1D34y1J7Ki&cid=777411410&page=1" width="600px" height="400px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## Wake me up when september ends
+* [Wake]{:.heading.flip-title} --- Wake me up when september ends GreenDay.
 
-### 红豆
+## 我是一只鱼
+* [我是一只鱼]{:.heading.flip-title} --- 我是一只鱼 落日飞车.
 
-<iframe src="//player.bilibili.com/player.html?aid=208293464&bvid=BV1wh411H7uu&cid=417111352&page=1" width="600px" height="400px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## 一见钟情
+* [一见钟情]{:.heading.flip-title} --- 一见钟情 刺客五六七.
 
-### Wake me up when september ends
+## 小宇
+* [小宇]{:.heading.flip-title} --- 小宇 张震岳.
 
-<iframe src="//player.bilibili.com/player.html?aid=89244708&bvid=BV1m7411J7JD&cid=152436906&page=1" width="600px" height="400px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## 谁来剪月光
+* [谁来剪月光]{:.heading.flip-title} --- 谁来剪月光 陈奕迅.
 
-### 我是一只鱼
-
-<iframe src="//player.bilibili.com/player.html?aid=87659526&bvid=BV1o7411t7Zk&cid=149771527&page=1" width="600px" height="400px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-### 一见钟情
-
-<iframe src="//player.bilibili.com/player.html?aid=85904440&bvid=BV1v7411B75W&cid=146838214&page=1" width="600px" height="400px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-### 小宇
-
-<iframe src="//player.bilibili.com/player.html?aid=82620391&bvid=BV1WJ411G7yQ&cid=141361241&page=1" width="600px" height="400px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-### 谁来剪月光
+[Creep]: 1.md
+[温柔]: 2.md
+[红豆]: 3.md
+[Wake]: 4.md
+[我是一只鱼]: 5.md
+[一见钟情]: 6.md
+[小宇]: 7.md
+[谁来剪月光]: 8.md
