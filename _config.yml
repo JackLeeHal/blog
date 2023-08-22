@@ -49,9 +49,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             文
-    url:               /example/
+    url:               /articles/
   - title:             艺
-    url:               /docs/
+    url:               /covers/
   - title:             关于
     url:               /about/
 
