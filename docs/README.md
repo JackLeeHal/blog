@@ -5,7 +5,7 @@ description: >
   一些吉他Cover。
 hide_description: false
 sitemap: false
-permalink: /covers/
+permalink: /docs/
 ---
 
 
